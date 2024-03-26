@@ -40,11 +40,6 @@ body {
     margin-top: 10px;
 }
 
-/** .card-titulos h5 {
-    padding: 10px;
-} 
-*/
-
 .card-titulo {
     display: flex;
     justify-content: space-between;
